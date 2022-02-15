@@ -1,0 +1,13 @@
+.date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-radius: 50px;
+    padding: 6px 13px;
+    background-color: #A3A2B1;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+}

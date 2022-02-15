@@ -1,0 +1,10 @@
+.bubble {
+    border-radius: 2px 20px 20px 20px;
+    padding: 13px 14px;
+    background-color: #8457DD;
+    font-size: 14px;
+    color: white;
+    max-width: 230px;
+    /* white-space: normal; */
+    word-wrap: break-word;
+}

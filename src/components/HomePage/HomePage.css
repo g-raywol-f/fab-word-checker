@@ -1,0 +1,44 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+
+.home>h1 {
+    color: #fff;
+    user-select: none;
+}
+
+.home>textarea {
+    margin: 20px;
+    width: 100%;
+    height: 100px;
+}
+
+.home>button {
+    margin-bottom: 40px;
+    border: none;
+    padding: 5px 20px;
+}
+
+.home>p {
+    color: #fff;
+    user-select: none
+}
+
+.home>.filter {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 400px;
+    padding: 10px;
+    background-color: #e8e8e8;
+}
+
+.home .filtered {
+    font-weight: bold;
+    color: rgb(210, 0, 0);
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fab-wword-checker/static/css/main.0169ec55.css",
+    "main.js": "/fab-wword-checker/static/js/main.8895a133.js",
+    "index.html": "/fab-wword-checker/index.html",
+    "main.0169ec55.css.map": "/fab-wword-checker/static/css/main.0169ec55.css.map",
+    "main.8895a133.js.map": "/fab-wword-checker/static/js/main.8895a133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0169ec55.css",
+    "static/js/main.8895a133.js"
+  ]
+}

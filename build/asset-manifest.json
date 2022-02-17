@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fab-word-checker/static/css/main.0169ec55.css",
-    "main.js": "/fab-word-checker/static/js/main.33c8900a.js",
+    "main.js": "/fab-word-checker/static/js/main.0091c73b.js",
     "index.html": "/fab-word-checker/index.html",
     "main.0169ec55.css.map": "/fab-word-checker/static/css/main.0169ec55.css.map",
-    "main.33c8900a.js.map": "/fab-word-checker/static/js/main.33c8900a.js.map"
+    "main.0091c73b.js.map": "/fab-word-checker/static/js/main.0091c73b.js.map"
   },
   "entrypoints": [
     "static/css/main.0169ec55.css",
-    "static/js/main.33c8900a.js"
+    "static/js/main.0091c73b.js"
   ]
 }

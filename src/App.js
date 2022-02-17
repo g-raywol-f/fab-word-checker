@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route exact path='/' element={<HomePage />} />
+        <Route exact path='/' element={<HomePage />} basename={"https://g-raywol-f.github.io/fab-word-checker"} />
         {/* <Route path='/addWord' element={<AddWordPage />} /> */}
       </Routes>
     </div>
